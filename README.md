@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, AI technologies, and open-source projects.
 
-🌱 I’m currently learning Python, JavaScript, and machine learning algorithms.
+🌱 I’m currently learning Python, JavaScript, с#, TypeScript and machine learning algorithms.
 
 💞 I’m looking to collaborate on innovative AI-driven projects and open-source web applications.
 
